@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/apple/ml-cross-entropy/commit/3de376c106a1916bc5e1b619f9c77c87a461ee1c",
       "git:hexsha": "3de376c106a1916bc5e1b619f9c77c87a461ee1c",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }
